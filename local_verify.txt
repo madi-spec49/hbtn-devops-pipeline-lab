@@ -1,0 +1,10 @@
+=== Unit tests ===
+Test Suites: 2 passed, 2 total
+Tests:       8 passed, 8 total
+
+=== Integration tests ===
+Test Suites: 1 passed, 1 total
+Tests:       3 passed, 3 total
+
+=== Health check ===
+{"status":"ok"}
